@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Detaljer</string>
+    <string name="ExportAsJson">Eksporter som JSON</string>
+    <string name="HideAllTab">Skjul «Alle sludringer»-fanen</string>
+    <string name="HideAllTabAbout">Trykk «Tilbake» på hjemmesiden for å åpne den.</string>
+</resources>

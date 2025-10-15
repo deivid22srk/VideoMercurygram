@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Chi tiết</string>
+    <string name="ExportAsJson">Xuất dưới dạng JSON</string>
+    <string name="HideAllTab">Ẩn tab \"Tất cả trò chuyện\"</string>
+    <string name="HideAllTabAbout">Nhấn \"Quay lại\" trên trang chủ để mở.</string>
+</resources>

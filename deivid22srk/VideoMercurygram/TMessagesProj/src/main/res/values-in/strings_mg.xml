@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Detail</string>
+    <string name="ExportAsJson">Ekspor sebagai JSON</string>
+    <string name="HideAllTab">Sembunyikan folder \"Semua Obrolan\"</string>
+    <string name="HideAllTabAbout">Tekan \"Kembali\" di beranda untuk membukanya.</string>
+</resources>

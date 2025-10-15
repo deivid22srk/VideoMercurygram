@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Detaylar</string>
+    <string name="ExportAsJson">JSON olarak dışa aktar</string>
+    <string name="HideAllTab">\"Tüm Sohbetler\" sekmesini gizle</string>
+    <string name="HideAllTabAbout">Açmak için ana sayfada \"Geri\" tuşuna basın.</string>
+</resources>

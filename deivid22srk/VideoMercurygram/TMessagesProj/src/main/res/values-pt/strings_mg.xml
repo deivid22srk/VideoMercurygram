@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Detalhes</string>
+    <string name="ExportAsJson">Exportar como JSON</string>
+    <string name="HideAllTab">Ocultar guia \"Todos os Chats\"</string>
+    <string name="HideAllTabAbout">Toque em \"Voltar\" na página inicial para abri-lo.</string>
+</resources>

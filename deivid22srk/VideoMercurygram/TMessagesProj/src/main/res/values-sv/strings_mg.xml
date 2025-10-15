@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Detaljer</string>
+    <string name="ExportAsJson">Exportera som JSON</string>
+    <string name="HideAllTab">Göm \"Alla Chattar\" fliken</string>
+    <string name="HideAllTabAbout">Tryck på \"tillbaka\" på hemsidan för att öppna den.</string>
+</resources>

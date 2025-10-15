@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Λεπτομέρειες</string>
+    <string name="ExportAsJson">Εξαγωγή ως JSON</string>
+    <string name="HideAllTab">Απόκρυψη καρτέλας \"Όλες\"</string>
+    <string name="HideAllTabAbout">Πατήστε \"Πίσω\" στην αρχική σελίδα για να την ανοίξετε.</string>
+</resources>

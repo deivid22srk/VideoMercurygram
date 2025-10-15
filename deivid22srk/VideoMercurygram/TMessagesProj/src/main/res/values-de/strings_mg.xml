@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Details</string>
+    <string name="ExportAsJson">Als JSON exportieren</string>
+    <string name="HideAllTab">\"Alle Chats\" Tab ausblenden</string>
+    <string name="HideAllTabAbout">\"Zurück\" auf Startseite antippen, um sie zu öffnen.</string>
+</resources>

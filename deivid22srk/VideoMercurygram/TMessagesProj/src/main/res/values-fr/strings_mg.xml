@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Détails</string>
+    <string name="ExportAsJson">Exporter en JSON</string>
+    <string name="HideAllTab">Masquer l\'onglet \"Toutes les conversations\"</string>
+    <string name="HideAllTabAbout">Appuyez sur \"Retour\" sur la page d\'accueil pour l\'ouvrir.</string>
+</resources>

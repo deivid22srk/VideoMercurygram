@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MessageDetails">Մանրամասները</string>
+    <string name="ExportAsJson">Արտահանեք որպես JSON</string>
+    <string name="HideAllTab">Թաքցնել «Բոլոր զրույցները» ներդիրը</string>
+    <string name="HideAllTabAbout">Հիմնական էջում սեղմեք «Վերադառնալ» ՝ այն բացելու համար:</string>
+</resources>
