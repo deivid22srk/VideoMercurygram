@@ -1,0 +1,135 @@
+--------- beginning of system
+10-17 18:03:40.017 D/InsetsController(28050): Setting requestedVisibleTypes to -16 (was -9)
+10-17 18:04:13.747 D/InsetsController(28050): Setting requestedVisibleTypes to -16 (was -9)
+10-17 18:04:21.433 D/InsetsController(28050): Setting requestedVisibleTypes to -16 (was -9)
+10-17 18:04:50.937 D/InsetsController(28050): Setting requestedVisibleTypes to -16 (was -9)
+10-17 18:05:10.965 D/InsetsController(28050): Setting requestedVisibleTypes to -16 (was -9)
+--------- beginning of main
+10-17 18:07:54.798 D/ViewRootImpl(28050): Skipping stats log for color mode
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): QUALCOMM build                   : 923a446bf8, I23d7d7df15
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Build Date                       : 09/05/24
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): OpenGL ES Shader Compiler Version: EV031.35.01.12
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Local Branch                     : 
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Remote Branch                    : NONE
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Reconstruct Branch               : NOTHING
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Build Config                     : S P 10.0.7 AArch64
+10-17 18:07:54.819 I/AdrenoGLES-0(28050): Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+10-17 18:07:54.833 I/AdrenoGLES-0(28050): PFP: 0x016ee201, ME: 0x00000000
+10-17 18:07:54.946 D/InsetsController(28050): hide(ime(), fromIme=false)
+10-17 18:07:54.946 I/ImeTracker(28050): com.winlator.orion:4ae2d2d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): QUALCOMM build                   : 923a446bf8, I23d7d7df15
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Build Date                       : 09/05/24
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): OpenGL ES Shader Compiler Version: EV031.35.01.12
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Local Branch                     : 
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Remote Branch                    : NONE
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Reconstruct Branch               : NOTHING
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Build Config                     : S P 10.0.7 AArch64
+10-17 18:07:55.486 I/AdrenoGLES-0(28050): Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+10-17 18:07:55.490 I/AdrenoGLES-0(28050): PFP: 0x016ee201, ME: 0x00000000
+10-17 18:07:55.593 W/WindowOnBackDispatcher(28050): OnBackInvokedCallback is not enabled for the application.
+10-17 18:07:55.593 W/WindowOnBackDispatcher(28050): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+10-17 18:07:59.137 D/VRI[MainActivity](28050): visibilityChanged oldVisibility=true newVisibility=false
+10-17 18:08:37.224 D/ViewRootImpl(28050): Skipping stats log for color mode
+10-17 18:08:37.230 W/WindowOnBackDispatcher(28050): OnBackInvokedCallback is not enabled for the application.
+10-17 18:08:37.230 W/WindowOnBackDispatcher(28050): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): QUALCOMM build                   : 923a446bf8, I23d7d7df15
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Build Date                       : 09/05/24
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): OpenGL ES Shader Compiler Version: EV031.35.01.12
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Local Branch                     : 
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Remote Branch                    : NONE
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Reconstruct Branch               : NOTHING
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Build Config                     : S P 10.0.7 AArch64
+10-17 18:08:37.255 I/AdrenoGLES-0(28050): Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+10-17 18:08:37.264 I/AdrenoGLES-0(28050): PFP: 0x016ee201, ME: 0x00000000
+10-17 18:08:37.348 D/InsetsController(28050): hide(ime(), fromIme=false)
+10-17 18:08:37.349 I/ImeTracker(28050): com.winlator.orion:a800d453: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): QUALCOMM build                   : 923a446bf8, I23d7d7df15
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Build Date                       : 09/05/24
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): OpenGL ES Shader Compiler Version: EV031.35.01.12
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Local Branch                     : 
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Remote Branch                    : NONE
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Reconstruct Branch               : NOTHING
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Build Config                     : S P 10.0.7 AArch64
+10-17 18:08:37.901 I/AdrenoGLES-0(28050): Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+10-17 18:08:37.905 I/AdrenoGLES-0(28050): PFP: 0x016ee201, ME: 0x00000000
+10-17 18:08:40.028 I/.winlator.orion(28050): AssetManager2(0xb4000070142fbdf8) locale list changing from [] to [pt-BR]
+10-17 18:08:40.111 D/InsetsController(28050): Setting requestedVisibleTypes to -16 (was -9)
+10-17 18:08:40.150 I/XServerManager(28050): Starting XServer...
+10-17 18:08:40.156 W/XServerManager(28050): Xvfb not found, using native implementation
+10-17 18:08:40.371 D/InsetsController(28050): hide(ime(), fromIme=false)
+10-17 18:08:40.371 I/ImeTracker(28050): com.winlator.orion:21c5151b: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-17 18:08:40.730 D/VRI[MainActivity](28050): visibilityChanged oldVisibility=true newVisibility=false
+10-17 18:08:40.747 D/HWUI    (28050): endAllActiveAnimators on 0xb400006e7430eb30 (UnprojectedRipple) with handle 0xb400006f0435ce20
+10-17 18:08:41.178 I/WineExecutor(28050): Executing: explorer.exe
+10-17 18:08:41.178 I/WineExecutor(28050): Arguments: /desktop=shell,1280x720
+10-17 18:08:41.178 I/WineExecutor(28050): Working Directory: default
+10-17 18:08:41.178 I/WineExecutor(28050): Use Chroot: true
+10-17 18:08:41.178 I/WineExecutor(28050): Mode: Chroot (requires root)
+10-17 18:08:41.183 D/WineExecutor(28050): Chroot script:
+10-17 18:08:41.183 D/WineExecutor(28050): #!/system/bin/sh
+10-17 18:08:41.183 D/WineExecutor(28050): set -e
+10-17 18:08:41.183 D/WineExecutor(28050): 
+10-17 18:08:41.183 D/WineExecutor(28050): # Prepare chroot environment
+10-17 18:08:41.183 D/WineExecutor(28050): ROOTFS='/data/user/0/com.winlator.orion/files/imagefs'
+10-17 18:08:41.183 D/WineExecutor(28050): 
+10-17 18:08:41.183 D/WineExecutor(28050): # Mount filesystems if not already mounted
+10-17 18:08:41.183 D/WineExecutor(28050): mountpoint -q $ROOTFS/proc || mount -t proc proc $ROOTFS/proc
+10-17 18:08:41.183 D/WineExecutor(28050): mountpoint -q $ROOTFS/sys || mount -t sysfs sys $ROOTFS/sys
+10-17 18:08:41.183 D/WineExecutor(28050): mountpoint -q $ROOTFS/dev || mount --bind /dev $ROOTFS/dev
+10-17 18:08:41.183 D/WineExecutor(28050): 
+10-17 18:08:41.183 D/WineExecutor(28050): # Create wine prefix bind mount
+10-17 18:08:41.183 D/WineExecutor(28050): mkdir -p $ROOTFS/root/.wine
+10-17 18:08:41.183 D/WineExecutor(28050): mountpoint -q $ROOTFS/root/.wine || mount --bind /storage/emulated/0/.orion/container $ROOTFS/root/.wine
+10-17 18:08:41.183 D/WineExecutor(28050): 
+10-17 18:08:41.183 D/WineExecutor(28050): # Execute wine inside chroot
+10-17 18:08:41.183 D/WineExecutor(28050): chroot $ROOTFS /bin/sh -c 'cd /root && mkdir -p $ROOTFS/opt/wine
+10-17 18:08:41.183 D/WineExecutor(28050): mountpoint -q $ROOTFS/opt/wine || mount --bind /data/user/0/com.winlator.orion/files/proton/bin $ROOTFS/opt/wine
+10-17 18:08:41.183 D/WineExecutor(28050): /opt/wine/wine explorer.exe /desktop=shell,1280x720'
+10-17 18:08:41.183 D/WineExecutor(28050): 
+10-17 18:08:41.183 D/WineExecutor(28050): # Cleanup on exit
+10-17 18:08:41.183 D/WineExecutor(28050): umount $ROOTFS/opt/wine 2>/dev/null || true
+10-17 18:08:41.183 D/WineExecutor(28050): umount $ROOTFS/root/.wine 2>/dev/null || true
+10-17 18:08:41.183 D/WineExecutor(28050): umount $ROOTFS/dev 2>/dev/null || true
+10-17 18:08:41.183 D/WineExecutor(28050): umount $ROOTFS/proc 2>/dev/null || true
+10-17 18:08:41.183 D/WineExecutor(28050): umount $ROOTFS/sys 2>/dev/null || true
+10-17 18:08:41.183 I/WineExecutor(28050): Command: su -c sh /data/user/0/com.winlator.orion/cache/wine_chroot_1760735321178.sh
+10-17 18:08:41.184 I/WineExecutor(28050): Working directory: /data/user/0/com.winlator.orion/files/imagefs/home/xuser
+10-17 18:08:41.189 I/WineExecutor(28050): Wine logs will be saved to: /storage/emulated/0/.orion/logs/wine_2025-10-17_18-08-41.log
+10-17 18:08:41.216 I/WineExecutor(28050): Wine process started with PID: 10229
+10-17 18:08:47.226 W/WindowOnBackDispatcher(28050): OnBackInvokedCallback is not enabled for the application.
+10-17 18:08:47.226 W/WindowOnBackDispatcher(28050): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+10-17 18:08:47.328 D/InsetsController(28050): hide(ime(), fromIme=false)
+10-17 18:08:47.328 I/ImeTracker(28050): com.winlator.orion:53ef8fa0: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-17 18:08:48.010 W/WindowOnBackDispatcher(28050): sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@162d3c6
+10-17 18:08:48.014 E/WineExecutor(28050): Failed to kill wineserver
+10-17 18:08:48.014 E/WineExecutor(28050): java.io.IOException: Cannot run program "/data/user/0/com.winlator.orion/files/proton/bin/wineserver": error=13, Permission denied
+10-17 18:08:48.014 E/WineExecutor(28050): 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1050)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at com.winlator.orion.core.WineExecutor$killWineServer$2.invokeSuspend(WineExecutor.kt:319)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:811)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:715)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:702)
+10-17 18:08:48.014 E/WineExecutor(28050): Caused by: java.io.IOException: error=13, Permission denied
+10-17 18:08:48.014 E/WineExecutor(28050): 	at java.lang.UNIXProcess.forkAndExec(Native Method)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at java.lang.UNIXProcess.<init>(UNIXProcess.java:133)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at java.lang.ProcessImpl.start(ProcessImpl.java:141)
+10-17 18:08:48.014 E/WineExecutor(28050): 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+10-17 18:08:48.014 E/WineExecutor(28050): 	... 9 more
+10-17 18:08:48.015 D/HWUI    (28050): endAllActiveAnimators on 0xb400006e7430fe80 (UnprojectedRipple) with handle 0xb400006f0435ebc0
+10-17 18:08:48.020 I/XServerManager(28050): Stopping XServer...
+10-17 18:08:48.020 I/XServerManager(28050): XServer stopped
+10-17 18:08:48.030 D/ViewRootImpl(28050): Skipping stats log for color mode
+10-17 18:08:48.105 D/InsetsController(28050): hide(ime(), fromIme=false)
+10-17 18:08:48.105 I/ImeTracker(28050): com.winlator.orion:3b1ac971: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-17 18:08:48.570 D/VRI[XServerDisplayActivity](28050): visibilityChanged oldVisibility=true newVisibility=false
+10-17 18:08:49.008 W/WindowOnBackDispatcher(28050): sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda13@11e6e5b
+10-17 18:08:49.009 D/ViewRootImpl(28050): Skipping stats log for color mode
+10-17 18:08:50.848 D/VRI[MainActivity](28050): visibilityChanged oldVisibility=true newVisibility=false
